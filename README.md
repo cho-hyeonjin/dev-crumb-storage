@@ -6,4 +6,6 @@
 
 <br/>
 
-개발 중에 알게 되는(또는 알아야 하는) 다양한 것들을 `Issues`에 저장해 두었습니다. 🍞✨
+개발 중 알게 되는(또는 알아야 하는) 부수적인 것들을 저장하는 레포지토리입니다.
+
+**🍞[Click Here!](https://github.com/cho-hyeonjin/dev-crumb-bin/issues)✨** 

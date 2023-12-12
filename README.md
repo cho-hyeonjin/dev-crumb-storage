@@ -1,4 +1,4 @@
-# dev-crumb-bin
+# dev-crumb-storage
 
 <img src="https://github.com/cho-hyeonjin/dev-crumb-bin/assets/78816754/0daa64b3-294d-40a6-9856-84d12558b2d0" width="20%" />
 
